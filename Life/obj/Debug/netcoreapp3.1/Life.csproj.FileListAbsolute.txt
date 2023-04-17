@@ -1,0 +1,14 @@
+C:\Users\lidia\source\repos\mipis\Life\Life\bin\Debug\netcoreapp3.1\Life.exe
+C:\Users\lidia\source\repos\mipis\Life\Life\bin\Debug\netcoreapp3.1\Life.deps.json
+C:\Users\lidia\source\repos\mipis\Life\Life\bin\Debug\netcoreapp3.1\Life.runtimeconfig.json
+C:\Users\lidia\source\repos\mipis\Life\Life\bin\Debug\netcoreapp3.1\Life.runtimeconfig.dev.json
+C:\Users\lidia\source\repos\mipis\Life\Life\bin\Debug\netcoreapp3.1\Life.dll
+C:\Users\lidia\source\repos\mipis\Life\Life\bin\Debug\netcoreapp3.1\Life.pdb
+C:\Users\lidia\source\repos\mipis\Life\Life\obj\Debug\netcoreapp3.1\Life.csproj.AssemblyReference.cache
+C:\Users\lidia\source\repos\mipis\Life\Life\obj\Debug\netcoreapp3.1\Life.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lidia\source\repos\mipis\Life\Life\obj\Debug\netcoreapp3.1\Life.AssemblyInfoInputs.cache
+C:\Users\lidia\source\repos\mipis\Life\Life\obj\Debug\netcoreapp3.1\Life.AssemblyInfo.cs
+C:\Users\lidia\source\repos\mipis\Life\Life\obj\Debug\netcoreapp3.1\Life.csproj.CoreCompileInputs.cache
+C:\Users\lidia\source\repos\mipis\Life\Life\obj\Debug\netcoreapp3.1\Life.dll
+C:\Users\lidia\source\repos\mipis\Life\Life\obj\Debug\netcoreapp3.1\Life.pdb
+C:\Users\lidia\source\repos\mipis\Life\Life\obj\Debug\netcoreapp3.1\Life.genruntimeconfig.cache

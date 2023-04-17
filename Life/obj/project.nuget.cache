@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LemSk1Jr92br50HURNzBObbp00deIvN7uUpte0hA5WVlQZplxHqjOq2w3LBOdLvDuClqIkABNsQ7pkhSSnH1+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lidia\\source\\repos\\mipis\\Life\\Life\\Life.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lidia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
